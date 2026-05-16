@@ -1,0 +1,8 @@
+{
+  "name": "agentic-sdlc",
+  "description": "AI-powered SDLC pipeline: BA → TDD → Implement → Deploy → E2E, orchestrated by a Supervisor agent fleet",
+  "version": "1.0.0",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "hooks": "./hooks/hooks.json"
+}

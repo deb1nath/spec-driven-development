@@ -1,0 +1,19 @@
+# Claude Code runtime state
+.claude/audit.log
+.claude/todos/
+.claude/projects/
+.claude/statsig/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local env
+.env
+.env.*
+*.local
+
+# Build artifacts (in target projects)
+build/
+target/
+node_modules/
