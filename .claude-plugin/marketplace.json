@@ -1,0 +1,34 @@
+{
+  "name": "agentic-sdlc",
+  "description": "AI-powered SDLC pipeline plugin for Claude Code and Copilot",
+  "owner": {
+    "name": "Debasish Nath",
+    "github": "dbnath"
+  },
+  "plugins": [
+    {
+      "name": "agentic-sdlc",
+      "description": "Supervisor-orchestrated agent fleet that takes a business requirement through BA → TDD → Implement → Deploy → E2E. Includes 8 specialist agents, 9 reusable skills, safety hooks, and a Copilot bridge. Java/Spring Boot defaults with parameterized tech-stack overrides.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Debasish Nath",
+        "github": "dbnath"
+      },
+      "keywords": [
+        "sdlc",
+        "tdd",
+        "agents",
+        "supervisor",
+        "java",
+        "spring-boot",
+        "ci-cd",
+        "e2e",
+        "jira",
+        "copilot"
+      ],
+      "repository": "https://github.com/dbnath/agentic-sdlc",
+      "license": "MIT"
+    }
+  ]
+}
