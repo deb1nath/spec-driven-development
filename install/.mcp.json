@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "jira": {
+      "type": "url",
+      "url": "https://mcp.atlassian.com/v1/sse",
+      "note": "JIRA integration for story creation and status updates. Requires ATLASSIAN_API_TOKEN in environment."
+    },
+    "github": {
+      "type": "url",
+      "url": "https://api.github.com/mcp",
+      "note": "GitHub integration for PR creation and CI status. Requires GITHUB_TOKEN in environment."
+    }
+  }
+}
