@@ -3,7 +3,7 @@
   "description": "AI-powered SDLC pipeline plugin for Claude Code and Copilot",
   "owner": {
     "name": "Debasish Nath",
-    "github": "dbnath"
+    "github": "deb1nath"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
       "source": "./",
       "author": {
         "name": "Debasish Nath",
-        "github": "dbnath"
+        "github": "deb1nath"
       },
       "keywords": [
         "sdlc",
@@ -27,7 +27,7 @@
         "jira",
         "copilot"
       ],
-      "repository": "https://github.com/dbnath/agentic-sdlc",
+      "repository": "https://github.com/deb1nath/agentic-sdlc",
       "license": "MIT"
     }
   ]
